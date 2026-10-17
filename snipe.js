@@ -1,5 +1,5 @@
 // ============================================
-//fomo TRADING BOT - Complete Implementation
+//Axiom TRADING BOT - Complete Implementation
 // with Debug Logging & Professional Messages 
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
